@@ -531,3 +531,14 @@ $box-shadow2: ();
 .title {
 text-align: center;
 }
+
+
+.archive-group {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.archive {
+  overflow: hidden;
+  white-space: nowrap;
+}
